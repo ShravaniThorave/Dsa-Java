@@ -1,3 +1,19 @@
+/*
+ * Problem   : Best Time to Buy and Sell Stock
+ * Link      : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+ * Difficulty: Easy
+ *
+ * Approach  : Greedy - One Pass
+ * Track the minimum price seen so far.
+ * At each day, calculate profit if we sell today (price - minPrice).
+ * Update maxProfit if current profit is better.
+ * We never need to look back because buying at lowest
+ * and selling at highest after it gives the best profit.
+ *
+ * Time : O(n) — single pass through prices array
+ * Space: O(1) — only two variables used
+ */
+
 import java.util.*;
 public class MaxProfit {
    public static int maxProfit(int[] prices) {
