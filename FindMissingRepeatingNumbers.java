@@ -1,3 +1,15 @@
+/*
+ * Problem   : Find Missing and Repeating Numbers
+ * Link      : https://bit.ly/3Lys1CL (GFG / Striver Sheet)
+ * Difficulty: Medium
+ * 
+ * Approach : Math - Two Equations (OPTIMAL)
+ * Eq1: mn - rn = sum1 - sum2  (difference of sums)
+ * Eq2: mn + rn = (sum1sq - sum2sq) / (mn - rn)  (difference of squares)
+ * Solve both equations to get mn and rn directly
+ * Time : O(n)  Space: O(1)
+ */
+
 import java.util.*;
 public class FindMissingRepeatingNumbers
 {
