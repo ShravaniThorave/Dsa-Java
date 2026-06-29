@@ -12,7 +12,7 @@ public class MajorityElement {
                 ele = nums[i];
                 cnt=1;
             }
-            if(ele==nums[i])
+           else if(ele==nums[i])
                 cnt++;
             else
                 cnt--;
