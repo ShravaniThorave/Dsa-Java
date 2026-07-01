@@ -31,4 +31,4 @@ One problem per day, every day.
  
 ## My Profiles
 - 🔗 LeetCode : https://leetcode.com/u/Shravani_2511
-- 💼 LinkedIn : https://linkedin.com/in/yourLinkedInID
+- 💼 LinkedIn : https://www.linkedin.com/in/shravani-thorave-295230388/
