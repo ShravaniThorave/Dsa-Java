@@ -7,7 +7,7 @@ One problem per day, every day.
  
 | Topic | Solved | Status |
 |-------|--------|--------|
-| Arrays | 9 / 40 | 🔥 In Progress |
+| Arrays | 17 / 40 | 🔥 In Progress |
 | Strings | 0 / 15 | ⏳ Not Started |
 | Linked List | 0 / 31 | ⏳ Not Started |
 | Stack & Queue | 0 / 23 | ⏳ Not Started |
